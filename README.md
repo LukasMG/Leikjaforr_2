@@ -2,4 +2,8 @@
 
 ## Verkefni 1
 
-[Hér]() er myndbandið af keyrslu á verkefninu
+[Hér](https://youtu.be/sq7g46MBB9M) er myndbandið af keyrslu á verkefninu
+
+## Verkefni 2
+
+[Hér]() er myndband af keyrslu
