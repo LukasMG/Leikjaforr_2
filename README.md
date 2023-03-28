@@ -4,6 +4,6 @@
 
 [Hér](https://youtu.be/sq7g46MBB9M) er myndbandið af keyrslu á verkefninu
 
-## Verkefni 2
+## Verkefni 3
 
-[Hér]() er myndband af keyrslu
+[Hér](https://docs.google.com/document/d/1EmlWnG2LcqqrYvY6kFxhk3u-hnozs_QUSZquovkUexE/edit?usp=sharing) er linkur á GDD
