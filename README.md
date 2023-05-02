@@ -7,3 +7,9 @@
 ## Verkefni 3
 
 [Hér](https://docs.google.com/document/d/1EmlWnG2LcqqrYvY6kFxhk3u-hnozs_QUSZquovkUexE/edit?usp=sharing) er linkur á GDD
+
+## Verkefni 4
+
+[Hér](https://youtu.be/1Gdnvv0_KI8) er linkur á myndband sem sýnir prototype spilun
+
+Því miður gat ég ekki notað clockify þar sem ég er að nota safari, sem stiður ekki extension-ið 
