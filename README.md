@@ -13,3 +13,5 @@
 [Hér](https://youtu.be/1Gdnvv0_KI8) er linkur á myndband sem sýnir prototype spilun
 
 Því miður gat ég ekki notað clockify þar sem ég er að nota safari, sem stiður ekki extension-ið 
+
+[Hér](https://github.com/LukasMG/Leikjaforr_2/tree/main/Scripts) eru allar skriptur, commentaðar á íslensku
